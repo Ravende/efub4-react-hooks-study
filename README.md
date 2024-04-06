@@ -14,5 +14,5 @@
 - [x] useNetwork
 - [x] useScroll
 - [x] useFullscreen
-- [ ] useNotification
-- [ ] useAxios
+- [x] useNotification
+- [x] useAxios
